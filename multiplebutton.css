@@ -1,0 +1,19 @@
+button{
+    height: 110px;
+    width: 110px;
+    margin:20px;
+    text-align: center;
+   
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    background-color: azure;
+    
+   /* width: fit-content;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+body{
+    background-color: black;
+}
